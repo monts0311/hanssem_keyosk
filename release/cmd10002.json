@@ -1,0 +1,14 @@
+{
+  "body":{
+    "apkVersionCurrent":3,
+    "downloadUrl":"https://github.com/wonsork/hanssem_keyosk/blob/master/release/app-debug-1.1.3.apk?raw=true"
+  },
+  "head":{
+    "command":"command",
+    "deviceId":"000000",
+    "dtStamp":1461819206792,
+    "macaddress":"000000",
+    "message":"message",
+    "resultCode":"0"
+  }
+}
