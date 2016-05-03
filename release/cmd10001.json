@@ -2,7 +2,7 @@
   "body":{
     "apkVersionCurrent":3,
 //    "downloadUrl":"https://github.com/wonsork/hanssem_keyosk/blob/master/release/app-debug-1.1.3.apk?raw=true",
-    "downloadUrl":"https://github.com/wonsork/hanssem_keyosk/blob/master/release/app-debug-1.1.3-5.apk?raw=true"
+    "downloadUrl":"https://github.com/wonsork/hanssem_keyosk/blob/master/release/app-debug-vc-4_vs_1.2.1.apk?raw=true"
   },
   "head":{
     "command":"command",
