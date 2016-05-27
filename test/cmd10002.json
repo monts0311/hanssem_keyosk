@@ -1,0 +1,23 @@
+{
+  "body":{
+  
+    "dtStampSynk":1464086264244,"downloadUrl":"http://hsf.hanssem.com/Agencyweb/cube2/service-sangbong-v8-20160527-02.zip,
+    //"dtStampSynk":1464086264244,"downloadUrl":"http://hsf.hanssem.com/Agencyweb/cube2/service-sanbong-20160524-02.zip",
+    //    "dtStampSynk":1464063336701,
+    //"dtStampSynk":1463131986379,
+    //"downloadUrl":"http://hsf.hanssem.com/Agencyweb/cube2/service-sanbong-20160524-01.zip"
+    //    "downloadUrl":"http://hsf.hanssem.com/Agencyweb/cube2/service-sanbong-20160523-01.zip"
+    //"dtStampSynk":1462345976805,"downloadUrl":"http://hsf.hanssem.com/Agencyweb/cube2/service_suwon_20160504_03.zip"
+    
+    "apkVersionCurrent":3
+    
+  },
+  "head":{
+    "command":"command",
+    "deviceId":"000000",
+    "dtStamp":1462168869937,
+    "macaddress":"000000",
+    "message":"message",
+    "resultCode":"0"
+  }
+}
